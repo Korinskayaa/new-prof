@@ -2,3 +2,4 @@
 "go go go"
 "boooo"
 "i love cats"
+"мое тотемное животное кот"
